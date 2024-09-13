@@ -21,3 +21,6 @@ https://2023.hacks-ai.ru/hackathons.html?eventId=969092&caseEl=1059645&tab=1
 * submission_v107.csv - сабмит
 * Sweepnet_BK_presentation.pptx - презентация
 * Пояснение к задаче v2.docx - доп информция по задаче
+
+***
+![certificate](media/certificate.jpg)
